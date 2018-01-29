@@ -1,0 +1,102 @@
+body {
+    font-family:'Montserrat', sans-serif;
+
+}
+.container {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo {
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.logo-image {
+    width: 150px;
+    position: relative;
+    margin: 0 auto;
+}
+.title {
+  font-size: 34px;
+  font-weight: 500;
+  text-align: center;
+  color: #444444;
+}
+.title2 {
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+  color: #444444;
+}
+.login {
+  width: 400px;
+  color: #555;
+  display: block;
+}
+.cuadro{
+      margin-top: 20px;
+      padding: 40px 0px 20px 0px;
+      background-color: #f7f7f7;
+      -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
+      -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
+      box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
+
+}
+.formcuadro {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    font-weight: normal;
+}
+.formcuadro .form-control {
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.formcuadro input {
+    width: 320px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+.formcuadro button {
+        display: block;
+        width: 60%;
+        font-weight: 400;
+        color: #fff;
+        background-color: #6ec0c6;
+        padding: 10px;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 18px;
+        border-radius: 6px;
+        border: 1px solid transparent;
+        text-align: center;
+        transition: all 0.5s;
+        cursor: pointer;
+}
+.formcuadro button:hover {
+      background-color: #99dde2;
+      text-decoration: underline;
+}
+.cuenta-nueva {
+        text-align: center;
+        display: block;
+        margin-top: 8px;
+        text-decoration:  none;
+        color: #444444;
+}
+.imgperfil {
+      width: 128px;
+      height: 128px;
+      margin: 0 auto 10px;
+      display: block;
+      -moz-border-radius: 50%;
+      -webkit-border-radius: 50%;
+      border-radius: 50%;
+}
